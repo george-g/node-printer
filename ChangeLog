@@ -1,3 +1,6 @@
+2016.09.10, version 0.2.3
+* Fix #216 printer.getPrinters() is not fail-safe for Windows OS
+
 2016.09.10, version 0.2.2
 * correct memory leak (thanks to @kjlaw89)
 
